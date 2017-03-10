@@ -1,0 +1,1189 @@
+"region","date","value"
+"Hillsborough County,FL","1",0.14859437751004
+"Duval County,FL","1",0.112903225806452
+"Clay County,FL","1",0
+"Columbia County,FL","1",0.0636942675159236
+"Pinellas County,FL","1",0
+"Pasco County,FL","1",0
+"Osceola County,FL","1",0.00574712643678161
+"Orange County,FL","1",0.0225225225225225
+"Putnam County,FL","1",NA
+"Alachua County,FL","1",0
+"Volusia County,FL","1",0.0153846153846154
+"Leon County,FL","1",0.027027027027027
+"St. Johns County,FL","1",0
+"Miami-Dade County,FL","1",0
+"Palm Beach County,FL","1",0
+"Broward County,FL","1",0
+"Martin County,FL","1",0
+"Sumter County,FL","1",0
+"Hernando County,FL","1",0
+"Collier County,FL","1",0
+"Lee County,FL","1",0
+"Bay County,FL","1",0
+"Indian River County,FL","1",0
+"Marion County,FL","1",0
+"St. Lucie County,FL","1",0
+"Seminole County,FL","1",0
+"Charlotte County,FL","1",0
+"Citrus County,FL","1",0
+"Brevard County,FL","1",0
+"Sarasota County,FL","1",0
+"Manatee County,FL","1",0
+"Polk County,FL","1",0
+"Nassau County,FL","1",0
+"NULL,FL","1",0
+"Flagler County,FL","1",0
+"Lake County,FL","1",0
+"Hillsborough County,FL","2",0.0763052208835341
+"Duval County,FL","2",0.0645161290322581
+"Clay County,FL","2",0.2
+"Columbia County,FL","2",0.0254777070063694
+"Pinellas County,FL","2",0
+"Pasco County,FL","2",0
+"Osceola County,FL","2",0.028735632183908
+"Orange County,FL","2",0.0585585585585586
+"Putnam County,FL","2",NA
+"Alachua County,FL","2",0
+"Volusia County,FL","2",0.0153846153846154
+"Leon County,FL","2",0.018018018018018
+"St. Johns County,FL","2",0
+"Miami-Dade County,FL","2",0
+"Palm Beach County,FL","2",0
+"Broward County,FL","2",0
+"Martin County,FL","2",0
+"Sumter County,FL","2",0
+"Hernando County,FL","2",0
+"Collier County,FL","2",0
+"Lee County,FL","2",0
+"Bay County,FL","2",0
+"Indian River County,FL","2",0
+"Marion County,FL","2",0
+"St. Lucie County,FL","2",0
+"Seminole County,FL","2",0
+"Charlotte County,FL","2",0
+"Citrus County,FL","2",0
+"Brevard County,FL","2",0
+"Sarasota County,FL","2",0
+"Manatee County,FL","2",0
+"Polk County,FL","2",0
+"Nassau County,FL","2",0
+"NULL,FL","2",0
+"Flagler County,FL","2",0
+"Lake County,FL","2",0
+"Hillsborough County,FL","3",0
+"Duval County,FL","3",0.145161290322581
+"Clay County,FL","3",0
+"Columbia County,FL","3",0
+"Pinellas County,FL","3",0
+"Pasco County,FL","3",0
+"Osceola County,FL","3",0.0459770114942529
+"Orange County,FL","3",0
+"Putnam County,FL","3",NA
+"Alachua County,FL","3",0.0285714285714286
+"Volusia County,FL","3",0
+"Leon County,FL","3",0.018018018018018
+"St. Johns County,FL","3",0
+"Miami-Dade County,FL","3",0
+"Palm Beach County,FL","3",0
+"Broward County,FL","3",0
+"Martin County,FL","3",0
+"Sumter County,FL","3",0
+"Hernando County,FL","3",0
+"Collier County,FL","3",0
+"Lee County,FL","3",0
+"Bay County,FL","3",0
+"Indian River County,FL","3",0
+"Marion County,FL","3",0
+"St. Lucie County,FL","3",0
+"Seminole County,FL","3",0
+"Charlotte County,FL","3",0
+"Citrus County,FL","3",0
+"Brevard County,FL","3",0
+"Sarasota County,FL","3",0
+"Manatee County,FL","3",0
+"Polk County,FL","3",0
+"Nassau County,FL","3",0
+"NULL,FL","3",0
+"Flagler County,FL","3",0
+"Lake County,FL","3",0
+"Hillsborough County,FL","4",0
+"Duval County,FL","4",0.129032258064516
+"Clay County,FL","4",0
+"Columbia County,FL","4",0.00636942675159236
+"Pinellas County,FL","4",0
+"Pasco County,FL","4",0
+"Osceola County,FL","4",0
+"Orange County,FL","4",0.0135135135135135
+"Putnam County,FL","4",NA
+"Alachua County,FL","4",0.0285714285714286
+"Volusia County,FL","4",0
+"Leon County,FL","4",0
+"St. Johns County,FL","4",0
+"Miami-Dade County,FL","4",0
+"Palm Beach County,FL","4",0
+"Broward County,FL","4",0
+"Martin County,FL","4",0
+"Sumter County,FL","4",0
+"Hernando County,FL","4",0
+"Collier County,FL","4",0
+"Lee County,FL","4",0
+"Bay County,FL","4",0
+"Indian River County,FL","4",0
+"Marion County,FL","4",0
+"St. Lucie County,FL","4",0
+"Seminole County,FL","4",0
+"Charlotte County,FL","4",0
+"Citrus County,FL","4",0
+"Brevard County,FL","4",0
+"Sarasota County,FL","4",0
+"Manatee County,FL","4",0
+"Polk County,FL","4",0
+"Nassau County,FL","4",0
+"NULL,FL","4",0
+"Flagler County,FL","4",0
+"Lake County,FL","4",0
+"Hillsborough County,FL","5",0
+"Duval County,FL","5",0.0483870967741935
+"Clay County,FL","5",0
+"Columbia County,FL","5",0.0318471337579618
+"Pinellas County,FL","5",0
+"Pasco County,FL","5",0
+"Osceola County,FL","5",0.0229885057471264
+"Orange County,FL","5",0.018018018018018
+"Putnam County,FL","5",NA
+"Alachua County,FL","5",0
+"Volusia County,FL","5",0
+"Leon County,FL","5",0
+"St. Johns County,FL","5",0
+"Miami-Dade County,FL","5",0
+"Palm Beach County,FL","5",0
+"Broward County,FL","5",0
+"Martin County,FL","5",0
+"Sumter County,FL","5",0
+"Hernando County,FL","5",0
+"Collier County,FL","5",0
+"Lee County,FL","5",0
+"Bay County,FL","5",0
+"Indian River County,FL","5",0
+"Marion County,FL","5",0
+"St. Lucie County,FL","5",0
+"Seminole County,FL","5",0
+"Charlotte County,FL","5",0
+"Citrus County,FL","5",0
+"Brevard County,FL","5",0
+"Sarasota County,FL","5",0
+"Manatee County,FL","5",0
+"Polk County,FL","5",0
+"Nassau County,FL","5",0
+"NULL,FL","5",0
+"Flagler County,FL","5",0
+"Lake County,FL","5",0
+"Hillsborough County,FL","6",0
+"Duval County,FL","6",0
+"Clay County,FL","6",0
+"Columbia County,FL","6",0.0509554140127389
+"Pinellas County,FL","6",0
+"Pasco County,FL","6",0
+"Osceola County,FL","6",0.0344827586206897
+"Orange County,FL","6",0.0135135135135135
+"Putnam County,FL","6",NA
+"Alachua County,FL","6",0
+"Volusia County,FL","6",0.0153846153846154
+"Leon County,FL","6",0
+"St. Johns County,FL","6",0
+"Miami-Dade County,FL","6",0
+"Palm Beach County,FL","6",0
+"Broward County,FL","6",0
+"Martin County,FL","6",0
+"Sumter County,FL","6",0
+"Hernando County,FL","6",0
+"Collier County,FL","6",0
+"Lee County,FL","6",0
+"Bay County,FL","6",0
+"Indian River County,FL","6",0
+"Marion County,FL","6",0
+"St. Lucie County,FL","6",0
+"Seminole County,FL","6",0
+"Charlotte County,FL","6",0
+"Citrus County,FL","6",0
+"Brevard County,FL","6",0
+"Sarasota County,FL","6",0
+"Manatee County,FL","6",0
+"Polk County,FL","6",0
+"Nassau County,FL","6",0
+"NULL,FL","6",0
+"Flagler County,FL","6",0
+"Lake County,FL","6",0
+"Hillsborough County,FL","7",0
+"Duval County,FL","7",0.241935483870968
+"Clay County,FL","7",0
+"Columbia County,FL","7",0.0509554140127389
+"Pinellas County,FL","7",0
+"Pasco County,FL","7",0
+"Osceola County,FL","7",0.206896551724138
+"Orange County,FL","7",0.00900900900900901
+"Putnam County,FL","7",NA
+"Alachua County,FL","7",0.0285714285714286
+"Volusia County,FL","7",0
+"Leon County,FL","7",0.036036036036036
+"St. Johns County,FL","7",0
+"Miami-Dade County,FL","7",0
+"Palm Beach County,FL","7",0
+"Broward County,FL","7",0
+"Martin County,FL","7",0
+"Sumter County,FL","7",0
+"Hernando County,FL","7",0
+"Collier County,FL","7",0
+"Lee County,FL","7",0
+"Bay County,FL","7",0
+"Indian River County,FL","7",0
+"Marion County,FL","7",0
+"St. Lucie County,FL","7",0
+"Seminole County,FL","7",0
+"Charlotte County,FL","7",0
+"Citrus County,FL","7",0
+"Brevard County,FL","7",0
+"Sarasota County,FL","7",0
+"Manatee County,FL","7",0
+"Polk County,FL","7",0
+"Nassau County,FL","7",0
+"NULL,FL","7",0
+"Flagler County,FL","7",0
+"Lake County,FL","7",0
+"Hillsborough County,FL","8",0
+"Duval County,FL","8",0.032258064516129
+"Clay County,FL","8",0
+"Columbia County,FL","8",0.089171974522293
+"Pinellas County,FL","8",0
+"Pasco County,FL","8",0
+"Osceola County,FL","8",0.333333333333333
+"Orange County,FL","8",0.027027027027027
+"Putnam County,FL","8",NA
+"Alachua County,FL","8",0.0285714285714286
+"Volusia County,FL","8",0
+"Leon County,FL","8",0.045045045045045
+"St. Johns County,FL","8",0
+"Miami-Dade County,FL","8",0
+"Palm Beach County,FL","8",0
+"Broward County,FL","8",0
+"Martin County,FL","8",0
+"Sumter County,FL","8",0
+"Hernando County,FL","8",0
+"Collier County,FL","8",0
+"Lee County,FL","8",0
+"Bay County,FL","8",0
+"Indian River County,FL","8",0
+"Marion County,FL","8",0
+"St. Lucie County,FL","8",0
+"Seminole County,FL","8",0
+"Charlotte County,FL","8",0
+"Citrus County,FL","8",0
+"Brevard County,FL","8",0
+"Sarasota County,FL","8",0
+"Manatee County,FL","8",0
+"Polk County,FL","8",0
+"Nassau County,FL","8",0
+"NULL,FL","8",0
+"Flagler County,FL","8",0
+"Lake County,FL","8",0
+"Hillsborough County,FL","9",0
+"Duval County,FL","9",0.0161290322580645
+"Clay County,FL","9",0.0666666666666667
+"Columbia County,FL","9",0.0445859872611465
+"Pinellas County,FL","9",0
+"Pasco County,FL","9",0
+"Osceola County,FL","9",0.339080459770115
+"Orange County,FL","9",0.0315315315315315
+"Putnam County,FL","9",NA
+"Alachua County,FL","9",0.0571428571428571
+"Volusia County,FL","9",0.0769230769230769
+"Leon County,FL","9",0.045045045045045
+"St. Johns County,FL","9",0
+"Miami-Dade County,FL","9",0
+"Palm Beach County,FL","9",0
+"Broward County,FL","9",0
+"Martin County,FL","9",0
+"Sumter County,FL","9",0
+"Hernando County,FL","9",0
+"Collier County,FL","9",0
+"Lee County,FL","9",0
+"Bay County,FL","9",0
+"Indian River County,FL","9",0
+"Marion County,FL","9",0
+"St. Lucie County,FL","9",0
+"Seminole County,FL","9",0
+"Charlotte County,FL","9",0
+"Citrus County,FL","9",0
+"Brevard County,FL","9",0
+"Sarasota County,FL","9",0
+"Manatee County,FL","9",0
+"Polk County,FL","9",0
+"Nassau County,FL","9",0
+"NULL,FL","9",0
+"Flagler County,FL","9",0
+"Lake County,FL","9",0
+"Hillsborough County,FL","10",0
+"Duval County,FL","10",0.0161290322580645
+"Clay County,FL","10",0.0666666666666667
+"Columbia County,FL","10",0.114649681528662
+"Pinellas County,FL","10",0
+"Pasco County,FL","10",0
+"Osceola County,FL","10",0.327586206896552
+"Orange County,FL","10",0.027027027027027
+"Putnam County,FL","10",NA
+"Alachua County,FL","10",0.114285714285714
+"Volusia County,FL","10",0.138461538461538
+"Leon County,FL","10",0.405405405405405
+"St. Johns County,FL","10",0.0272727272727273
+"Miami-Dade County,FL","10",0
+"Palm Beach County,FL","10",0
+"Broward County,FL","10",0
+"Martin County,FL","10",0
+"Sumter County,FL","10",0
+"Hernando County,FL","10",0
+"Collier County,FL","10",0
+"Lee County,FL","10",0
+"Bay County,FL","10",0
+"Indian River County,FL","10",0
+"Marion County,FL","10",0
+"St. Lucie County,FL","10",0
+"Seminole County,FL","10",0
+"Charlotte County,FL","10",0
+"Citrus County,FL","10",0
+"Brevard County,FL","10",0
+"Sarasota County,FL","10",0
+"Manatee County,FL","10",0
+"Polk County,FL","10",0
+"Nassau County,FL","10",0
+"NULL,FL","10",0
+"Flagler County,FL","10",0
+"Lake County,FL","10",0
+"Hillsborough County,FL","11",0.0160642570281124
+"Duval County,FL","11",0.145161290322581
+"Clay County,FL","11",0.0666666666666667
+"Columbia County,FL","11",0.152866242038217
+"Pinellas County,FL","11",0
+"Pasco County,FL","11",0.0158730158730159
+"Osceola County,FL","11",0.224137931034483
+"Orange County,FL","11",0.0405405405405405
+"Putnam County,FL","11",NA
+"Alachua County,FL","11",0.0571428571428571
+"Volusia County,FL","11",0.0769230769230769
+"Leon County,FL","11",0.486486486486487
+"St. Johns County,FL","11",0.00909090909090909
+"Miami-Dade County,FL","11",0.0411985018726592
+"Palm Beach County,FL","11",0
+"Broward County,FL","11",0
+"Martin County,FL","11",0
+"Sumter County,FL","11",0
+"Hernando County,FL","11",0
+"Collier County,FL","11",0
+"Lee County,FL","11",0
+"Bay County,FL","11",0
+"Indian River County,FL","11",0
+"Marion County,FL","11",0
+"St. Lucie County,FL","11",0
+"Seminole County,FL","11",0
+"Charlotte County,FL","11",0
+"Citrus County,FL","11",0
+"Brevard County,FL","11",0
+"Sarasota County,FL","11",0
+"Manatee County,FL","11",0
+"Polk County,FL","11",0
+"Nassau County,FL","11",0
+"NULL,FL","11",0
+"Flagler County,FL","11",0
+"Lake County,FL","11",0
+"Hillsborough County,FL","12",0.00803212851405622
+"Duval County,FL","12",0.0483870967741935
+"Clay County,FL","12",0.0666666666666667
+"Columbia County,FL","12",0.114649681528662
+"Pinellas County,FL","12",0
+"Pasco County,FL","12",0.0158730158730159
+"Osceola County,FL","12",0.293103448275862
+"Orange County,FL","12",0.153153153153153
+"Putnam County,FL","12",NA
+"Alachua County,FL","12",0.0285714285714286
+"Volusia County,FL","12",0.0769230769230769
+"Leon County,FL","12",0.306306306306306
+"St. Johns County,FL","12",0.00909090909090909
+"Miami-Dade County,FL","12",0.0898876404494382
+"Palm Beach County,FL","12",0.0140845070422535
+"Broward County,FL","12",0.0909090909090909
+"Martin County,FL","12",0
+"Sumter County,FL","12",0
+"Hernando County,FL","12",0
+"Collier County,FL","12",0
+"Lee County,FL","12",0
+"Bay County,FL","12",0
+"Indian River County,FL","12",0
+"Marion County,FL","12",0
+"St. Lucie County,FL","12",0
+"Seminole County,FL","12",0
+"Charlotte County,FL","12",0
+"Citrus County,FL","12",0
+"Brevard County,FL","12",0
+"Sarasota County,FL","12",0
+"Manatee County,FL","12",0
+"Polk County,FL","12",0
+"Nassau County,FL","12",0
+"NULL,FL","12",0
+"Flagler County,FL","12",0
+"Lake County,FL","12",0
+"Hillsborough County,FL","13",0
+"Duval County,FL","13",0.145161290322581
+"Clay County,FL","13",0.0666666666666667
+"Columbia County,FL","13",0.191082802547771
+"Pinellas County,FL","13",0
+"Pasco County,FL","13",0.0158730158730159
+"Osceola County,FL","13",0.385057471264368
+"Orange County,FL","13",0.121621621621622
+"Putnam County,FL","13",NA
+"Alachua County,FL","13",0.114285714285714
+"Volusia County,FL","13",0.169230769230769
+"Leon County,FL","13",0.117117117117117
+"St. Johns County,FL","13",0.0818181818181818
+"Miami-Dade County,FL","13",0
+"Palm Beach County,FL","13",0
+"Broward County,FL","13",0.0909090909090909
+"Martin County,FL","13",1
+"Sumter County,FL","13",1
+"Hernando County,FL","13",1
+"Collier County,FL","13",0
+"Lee County,FL","13",0
+"Bay County,FL","13",0
+"Indian River County,FL","13",0
+"Marion County,FL","13",0
+"St. Lucie County,FL","13",0
+"Seminole County,FL","13",0
+"Charlotte County,FL","13",0
+"Citrus County,FL","13",0
+"Brevard County,FL","13",0
+"Sarasota County,FL","13",0
+"Manatee County,FL","13",0
+"Polk County,FL","13",0
+"Nassau County,FL","13",0
+"NULL,FL","13",0
+"Flagler County,FL","13",0
+"Lake County,FL","13",0
+"Hillsborough County,FL","14",0
+"Duval County,FL","14",0
+"Clay County,FL","14",0
+"Columbia County,FL","14",0.197452229299363
+"Pinellas County,FL","14",0.00956937799043062
+"Pasco County,FL","14",0.0158730158730159
+"Osceola County,FL","14",0.189655172413793
+"Orange County,FL","14",0.0720720720720721
+"Putnam County,FL","14",NA
+"Alachua County,FL","14",0.0571428571428571
+"Volusia County,FL","14",0.0923076923076923
+"Leon County,FL","14",0.135135135135135
+"St. Johns County,FL","14",0.0181818181818182
+"Miami-Dade County,FL","14",0
+"Palm Beach County,FL","14",0.0422535211267606
+"Broward County,FL","14",0
+"Martin County,FL","14",0
+"Sumter County,FL","14",0.5
+"Hernando County,FL","14",0
+"Collier County,FL","14",0.00757575757575758
+"Lee County,FL","14",0
+"Bay County,FL","14",0
+"Indian River County,FL","14",0
+"Marion County,FL","14",0
+"St. Lucie County,FL","14",0
+"Seminole County,FL","14",0
+"Charlotte County,FL","14",0
+"Citrus County,FL","14",0
+"Brevard County,FL","14",0
+"Sarasota County,FL","14",0
+"Manatee County,FL","14",0
+"Polk County,FL","14",0
+"Nassau County,FL","14",0
+"NULL,FL","14",0
+"Flagler County,FL","14",0
+"Lake County,FL","14",0
+"Hillsborough County,FL","15",0.00401606425702811
+"Duval County,FL","15",0.290322580645161
+"Clay County,FL","15",0.2
+"Columbia County,FL","15",0.127388535031847
+"Pinellas County,FL","15",0
+"Pasco County,FL","15",0.0158730158730159
+"Osceola County,FL","15",0.201149425287356
+"Orange County,FL","15",0.117117117117117
+"Putnam County,FL","15",NA
+"Alachua County,FL","15",0.0857142857142857
+"Volusia County,FL","15",0.0615384615384615
+"Leon County,FL","15",0.045045045045045
+"St. Johns County,FL","15",0.0545454545454545
+"Miami-Dade County,FL","15",0
+"Palm Beach County,FL","15",0.0140845070422535
+"Broward County,FL","15",0
+"Martin County,FL","15",0
+"Sumter County,FL","15",0
+"Hernando County,FL","15",0
+"Collier County,FL","15",0
+"Lee County,FL","15",0.00917431192660551
+"Bay County,FL","15",0.166666666666667
+"Indian River County,FL","15",0.333333333333333
+"Marion County,FL","15",0
+"St. Lucie County,FL","15",0
+"Seminole County,FL","15",0
+"Charlotte County,FL","15",0
+"Citrus County,FL","15",0
+"Brevard County,FL","15",0
+"Sarasota County,FL","15",0
+"Manatee County,FL","15",0
+"Polk County,FL","15",0
+"Nassau County,FL","15",0
+"NULL,FL","15",0
+"Flagler County,FL","15",0
+"Lake County,FL","15",0
+"Hillsborough County,FL","16",0
+"Duval County,FL","16",0.548387096774194
+"Clay County,FL","16",0.133333333333333
+"Columbia County,FL","16",0.197452229299363
+"Pinellas County,FL","16",0
+"Pasco County,FL","16",0
+"Osceola County,FL","16",0.172413793103448
+"Orange County,FL","16",0.0630630630630631
+"Putnam County,FL","16",NA
+"Alachua County,FL","16",0.0857142857142857
+"Volusia County,FL","16",0.0923076923076923
+"Leon County,FL","16",0.0540540540540541
+"St. Johns County,FL","16",0.0727272727272727
+"Miami-Dade County,FL","16",0.0112359550561798
+"Palm Beach County,FL","16",0.028169014084507
+"Broward County,FL","16",0.0454545454545455
+"Martin County,FL","16",0
+"Sumter County,FL","16",0.25
+"Hernando County,FL","16",0
+"Collier County,FL","16",0
+"Lee County,FL","16",0
+"Bay County,FL","16",0
+"Indian River County,FL","16",0
+"Marion County,FL","16",1
+"St. Lucie County,FL","16",1
+"Seminole County,FL","16",0.00775193798449612
+"Charlotte County,FL","16",0.0043859649122807
+"Citrus County,FL","16",1
+"Brevard County,FL","16",0
+"Sarasota County,FL","16",0
+"Manatee County,FL","16",0
+"Polk County,FL","16",0
+"Nassau County,FL","16",0
+"NULL,FL","16",0
+"Flagler County,FL","16",0
+"Lake County,FL","16",0
+"Hillsborough County,FL","17",0
+"Duval County,FL","17",0.32258064516129
+"Clay County,FL","17",0.0666666666666667
+"Columbia County,FL","17",0.280254777070064
+"Pinellas County,FL","17",0
+"Pasco County,FL","17",0
+"Osceola County,FL","17",0.189655172413793
+"Orange County,FL","17",0.126126126126126
+"Putnam County,FL","17",NA
+"Alachua County,FL","17",0.0571428571428571
+"Volusia County,FL","17",0.107692307692308
+"Leon County,FL","17",0.0540540540540541
+"St. Johns County,FL","17",0.0454545454545455
+"Miami-Dade County,FL","17",0
+"Palm Beach County,FL","17",0
+"Broward County,FL","17",0
+"Martin County,FL","17",0
+"Sumter County,FL","17",0
+"Hernando County,FL","17",0
+"Collier County,FL","17",0
+"Lee County,FL","17",0
+"Bay County,FL","17",0
+"Indian River County,FL","17",0
+"Marion County,FL","17",0
+"St. Lucie County,FL","17",0
+"Seminole County,FL","17",0
+"Charlotte County,FL","17",0
+"Citrus County,FL","17",0
+"Brevard County,FL","17",0
+"Sarasota County,FL","17",0
+"Manatee County,FL","17",0
+"Polk County,FL","17",0
+"Nassau County,FL","17",0
+"NULL,FL","17",0
+"Flagler County,FL","17",0
+"Lake County,FL","17",0
+"Hillsborough County,FL","18",0
+"Duval County,FL","18",0.435483870967742
+"Clay County,FL","18",0.266666666666667
+"Columbia County,FL","18",0.318471337579618
+"Pinellas County,FL","18",0
+"Pasco County,FL","18",0
+"Osceola County,FL","18",0.137931034482759
+"Orange County,FL","18",0.211711711711712
+"Putnam County,FL","18",NA
+"Alachua County,FL","18",0.0857142857142857
+"Volusia County,FL","18",0.123076923076923
+"Leon County,FL","18",0.018018018018018
+"St. Johns County,FL","18",0.0545454545454545
+"Miami-Dade County,FL","18",0
+"Palm Beach County,FL","18",0
+"Broward County,FL","18",0
+"Martin County,FL","18",0
+"Sumter County,FL","18",0
+"Hernando County,FL","18",0
+"Collier County,FL","18",0
+"Lee County,FL","18",0
+"Bay County,FL","18",0
+"Indian River County,FL","18",0
+"Marion County,FL","18",0
+"St. Lucie County,FL","18",0
+"Seminole County,FL","18",0
+"Charlotte County,FL","18",0
+"Citrus County,FL","18",0
+"Brevard County,FL","18",0
+"Sarasota County,FL","18",0
+"Manatee County,FL","18",0
+"Polk County,FL","18",0
+"Nassau County,FL","18",0
+"NULL,FL","18",0
+"Flagler County,FL","18",0
+"Lake County,FL","18",0
+"Hillsborough County,FL","19",0
+"Duval County,FL","19",0.370967741935484
+"Clay County,FL","19",0.266666666666667
+"Columbia County,FL","19",0.312101910828025
+"Pinellas County,FL","19",0
+"Pasco County,FL","19",0
+"Osceola County,FL","19",0.235632183908046
+"Orange County,FL","19",0.225225225225225
+"Putnam County,FL","19",NA
+"Alachua County,FL","19",0.0571428571428571
+"Volusia County,FL","19",0.215384615384615
+"Leon County,FL","19",0.0540540540540541
+"St. Johns County,FL","19",0.0454545454545455
+"Miami-Dade County,FL","19",0
+"Palm Beach County,FL","19",0
+"Broward County,FL","19",0
+"Martin County,FL","19",0
+"Sumter County,FL","19",0
+"Hernando County,FL","19",0
+"Collier County,FL","19",0
+"Lee County,FL","19",0
+"Bay County,FL","19",0
+"Indian River County,FL","19",0
+"Marion County,FL","19",0
+"St. Lucie County,FL","19",0
+"Seminole County,FL","19",0
+"Charlotte County,FL","19",0
+"Citrus County,FL","19",0
+"Brevard County,FL","19",0
+"Sarasota County,FL","19",0
+"Manatee County,FL","19",0
+"Polk County,FL","19",0
+"Nassau County,FL","19",0
+"NULL,FL","19",0
+"Flagler County,FL","19",0
+"Lake County,FL","19",0
+"Hillsborough County,FL","20",0
+"Duval County,FL","20",0.241935483870968
+"Clay County,FL","20",0.8
+"Columbia County,FL","20",0.331210191082803
+"Pinellas County,FL","20",0
+"Pasco County,FL","20",0
+"Osceola County,FL","20",0.189655172413793
+"Orange County,FL","20",0.238738738738739
+"Putnam County,FL","20",NA
+"Alachua County,FL","20",0.142857142857143
+"Volusia County,FL","20",0.2
+"Leon County,FL","20",0.018018018018018
+"St. Johns County,FL","20",0.0727272727272727
+"Miami-Dade County,FL","20",0
+"Palm Beach County,FL","20",0
+"Broward County,FL","20",0
+"Martin County,FL","20",0
+"Sumter County,FL","20",0
+"Hernando County,FL","20",0
+"Collier County,FL","20",0
+"Lee County,FL","20",0
+"Bay County,FL","20",0
+"Indian River County,FL","20",0
+"Marion County,FL","20",0
+"St. Lucie County,FL","20",0
+"Seminole County,FL","20",0
+"Charlotte County,FL","20",0
+"Citrus County,FL","20",0
+"Brevard County,FL","20",0
+"Sarasota County,FL","20",0
+"Manatee County,FL","20",0
+"Polk County,FL","20",0
+"Nassau County,FL","20",0
+"NULL,FL","20",0
+"Flagler County,FL","20",0
+"Lake County,FL","20",0
+"Hillsborough County,FL","21",0
+"Duval County,FL","21",0.161290322580645
+"Clay County,FL","21",0.266666666666667
+"Columbia County,FL","21",0.178343949044586
+"Pinellas County,FL","21",0
+"Pasco County,FL","21",0
+"Osceola County,FL","21",0.235632183908046
+"Orange County,FL","21",0.117117117117117
+"Putnam County,FL","21",NA
+"Alachua County,FL","21",0.114285714285714
+"Volusia County,FL","21",0.138461538461538
+"Leon County,FL","21",0.018018018018018
+"St. Johns County,FL","21",0.0545454545454545
+"Miami-Dade County,FL","21",0
+"Palm Beach County,FL","21",0
+"Broward County,FL","21",0
+"Martin County,FL","21",0
+"Sumter County,FL","21",0
+"Hernando County,FL","21",0
+"Collier County,FL","21",0
+"Lee County,FL","21",0
+"Bay County,FL","21",0
+"Indian River County,FL","21",0
+"Marion County,FL","21",0
+"St. Lucie County,FL","21",0
+"Seminole County,FL","21",0
+"Charlotte County,FL","21",0
+"Citrus County,FL","21",0
+"Brevard County,FL","21",0
+"Sarasota County,FL","21",0
+"Manatee County,FL","21",0
+"Polk County,FL","21",0
+"Nassau County,FL","21",0
+"NULL,FL","21",0
+"Flagler County,FL","21",0
+"Lake County,FL","21",0
+"Hillsborough County,FL","22",0
+"Duval County,FL","22",0.564516129032258
+"Clay County,FL","22",0.466666666666667
+"Columbia County,FL","22",0.229299363057325
+"Pinellas County,FL","22",0
+"Pasco County,FL","22",0.142857142857143
+"Osceola County,FL","22",0.362068965517241
+"Orange County,FL","22",0.207207207207207
+"Putnam County,FL","22",NA
+"Alachua County,FL","22",0.114285714285714
+"Volusia County,FL","22",0.461538461538462
+"Leon County,FL","22",0.0720720720720721
+"St. Johns County,FL","22",0.1
+"Miami-Dade County,FL","22",0
+"Palm Beach County,FL","22",0
+"Broward County,FL","22",0
+"Martin County,FL","22",0
+"Sumter County,FL","22",0
+"Hernando County,FL","22",0
+"Collier County,FL","22",0
+"Lee County,FL","22",0
+"Bay County,FL","22",0
+"Indian River County,FL","22",0
+"Marion County,FL","22",0
+"St. Lucie County,FL","22",0
+"Seminole County,FL","22",0
+"Charlotte County,FL","22",0
+"Citrus County,FL","22",0
+"Brevard County,FL","22",0.0050251256281407
+"Sarasota County,FL","22",0.0133333333333333
+"Manatee County,FL","22",0
+"Polk County,FL","22",0
+"Nassau County,FL","22",0
+"NULL,FL","22",0
+"Flagler County,FL","22",0
+"Lake County,FL","22",0
+"Hillsborough County,FL","23",0.00401606425702811
+"Duval County,FL","23",0.0645161290322581
+"Clay County,FL","23",0.266666666666667
+"Columbia County,FL","23",0.305732484076433
+"Pinellas County,FL","23",0.00478468899521531
+"Pasco County,FL","23",0.111111111111111
+"Osceola County,FL","23",0.298850574712644
+"Orange County,FL","23",0.391891891891892
+"Putnam County,FL","23",NA
+"Alachua County,FL","23",0.114285714285714
+"Volusia County,FL","23",0.184615384615385
+"Leon County,FL","23",0.0990990990990991
+"St. Johns County,FL","23",0.127272727272727
+"Miami-Dade County,FL","23",0.0861423220973783
+"Palm Beach County,FL","23",0
+"Broward County,FL","23",0
+"Martin County,FL","23",0
+"Sumter County,FL","23",0
+"Hernando County,FL","23",0
+"Collier County,FL","23",0.0303030303030303
+"Lee County,FL","23",0.036697247706422
+"Bay County,FL","23",0
+"Indian River County,FL","23",0
+"Marion County,FL","23",0
+"St. Lucie County,FL","23",0
+"Seminole County,FL","23",0
+"Charlotte County,FL","23",0.0219298245614035
+"Citrus County,FL","23",0
+"Brevard County,FL","23",0.0391959798994975
+"Sarasota County,FL","23",0.44
+"Manatee County,FL","23",0
+"Polk County,FL","23",0
+"Nassau County,FL","23",0
+"NULL,FL","23",0
+"Flagler County,FL","23",0
+"Lake County,FL","23",0
+"Hillsborough County,FL","24",0.0160642570281124
+"Duval County,FL","24",0.209677419354839
+"Clay County,FL","24",0.266666666666667
+"Columbia County,FL","24",0.235668789808917
+"Pinellas County,FL","24",0.00956937799043062
+"Pasco County,FL","24",0.206349206349206
+"Osceola County,FL","24",0.494252873563218
+"Orange County,FL","24",0.400900900900901
+"Putnam County,FL","24",NA
+"Alachua County,FL","24",0.114285714285714
+"Volusia County,FL","24",0.261538461538462
+"Leon County,FL","24",0.0540540540540541
+"St. Johns County,FL","24",0.209090909090909
+"Miami-Dade County,FL","24",0.704119850187266
+"Palm Beach County,FL","24",0.47887323943662
+"Broward County,FL","24",0.0454545454545455
+"Martin County,FL","24",0
+"Sumter County,FL","24",0
+"Hernando County,FL","24",0
+"Collier County,FL","24",0.325757575757576
+"Lee County,FL","24",0.344036697247706
+"Bay County,FL","24",0
+"Indian River County,FL","24",0
+"Marion County,FL","24",0
+"St. Lucie County,FL","24",0
+"Seminole County,FL","24",0.00775193798449612
+"Charlotte County,FL","24",0.245614035087719
+"Citrus County,FL","24",0
+"Brevard County,FL","24",0.0482412060301508
+"Sarasota County,FL","24",0.373333333333333
+"Manatee County,FL","24",0.7
+"Polk County,FL","24",0.0695652173913043
+"Nassau County,FL","24",0.225806451612903
+"NULL,FL","24",0
+"Flagler County,FL","24",0
+"Lake County,FL","24",0
+"Hillsborough County,FL","25",0.265060240963855
+"Duval County,FL","25",0.209677419354839
+"Clay County,FL","25",1
+"Columbia County,FL","25",0.343949044585987
+"Pinellas County,FL","25",0.354066985645933
+"Pasco County,FL","25",0.650793650793651
+"Osceola County,FL","25",0.419540229885057
+"Orange County,FL","25",0.468468468468468
+"Putnam County,FL","25",NA
+"Alachua County,FL","25",0.114285714285714
+"Volusia County,FL","25",0.646153846153846
+"Leon County,FL","25",0.0540540540540541
+"St. Johns County,FL","25",0.181818181818182
+"Miami-Dade County,FL","25",0.853932584269663
+"Palm Beach County,FL","25",0.535211267605634
+"Broward County,FL","25",0.272727272727273
+"Martin County,FL","25",0
+"Sumter County,FL","25",0
+"Hernando County,FL","25",0
+"Collier County,FL","25",0.545454545454545
+"Lee County,FL","25",0.477064220183486
+"Bay County,FL","25",0
+"Indian River County,FL","25",0
+"Marion County,FL","25",0
+"St. Lucie County,FL","25",0
+"Seminole County,FL","25",0.333333333333333
+"Charlotte County,FL","25",0.741228070175439
+"Citrus County,FL","25",0
+"Brevard County,FL","25",0.136683417085427
+"Sarasota County,FL","25",0.466666666666667
+"Manatee County,FL","25",0.2
+"Polk County,FL","25",0.0869565217391304
+"Nassau County,FL","25",0.193548387096774
+"NULL,FL","25",0
+"Flagler County,FL","25",0
+"Lake County,FL","25",0
+"Hillsborough County,FL","26",0.337349397590361
+"Duval County,FL","26",0.306451612903226
+"Clay County,FL","26",0.666666666666667
+"Columbia County,FL","26",0.184713375796178
+"Pinellas County,FL","26",0.325358851674641
+"Pasco County,FL","26",0.349206349206349
+"Osceola County,FL","26",0.327586206896552
+"Orange County,FL","26",0.328828828828829
+"Putnam County,FL","26",NA
+"Alachua County,FL","26",0.0571428571428571
+"Volusia County,FL","26",0.292307692307692
+"Leon County,FL","26",0.036036036036036
+"St. Johns County,FL","26",0.863636363636364
+"Miami-Dade County,FL","26",0.715355805243446
+"Palm Beach County,FL","26",0.464788732394366
+"Broward County,FL","26",0
+"Martin County,FL","26",0
+"Sumter County,FL","26",0
+"Hernando County,FL","26",0
+"Collier County,FL","26",0.492424242424242
+"Lee County,FL","26",0.793577981651376
+"Bay County,FL","26",0
+"Indian River County,FL","26",0
+"Marion County,FL","26",0
+"St. Lucie County,FL","26",0
+"Seminole County,FL","26",0.178294573643411
+"Charlotte County,FL","26",0.662280701754386
+"Citrus County,FL","26",0
+"Brevard County,FL","26",0.116582914572864
+"Sarasota County,FL","26",0.386666666666667
+"Manatee County,FL","26",0.8
+"Polk County,FL","26",0.173913043478261
+"Nassau County,FL","26",0.354838709677419
+"NULL,FL","26",0
+"Flagler County,FL","26",0
+"Lake County,FL","26",0
+"Hillsborough County,FL","27",0.345381526104418
+"Duval County,FL","27",0.17741935483871
+"Clay County,FL","27",0.333333333333333
+"Columbia County,FL","27",0.140127388535032
+"Pinellas County,FL","27",0.397129186602871
+"Pasco County,FL","27",0.444444444444444
+"Osceola County,FL","27",0.580459770114943
+"Orange County,FL","27",0.27027027027027
+"Putnam County,FL","27",NA
+"Alachua County,FL","27",0.0285714285714286
+"Volusia County,FL","27",0.338461538461538
+"Leon County,FL","27",0.0720720720720721
+"St. Johns County,FL","27",0.2
+"Miami-Dade County,FL","27",0.831460674157303
+"Palm Beach County,FL","27",0.492957746478873
+"Broward County,FL","27",0.318181818181818
+"Martin County,FL","27",0
+"Sumter County,FL","27",0
+"Hernando County,FL","27",0
+"Collier County,FL","27",0.371212121212121
+"Lee County,FL","27",0.688073394495413
+"Bay County,FL","27",0
+"Indian River County,FL","27",0
+"Marion County,FL","27",0
+"St. Lucie County,FL","27",0
+"Seminole County,FL","27",0.434108527131783
+"Charlotte County,FL","27",0.653508771929825
+"Citrus County,FL","27",0
+"Brevard County,FL","27",0.178894472361809
+"Sarasota County,FL","27",0.746666666666667
+"Manatee County,FL","27",0.4
+"Polk County,FL","27",0.0956521739130435
+"Nassau County,FL","27",0.193548387096774
+"NULL,FL","27",0
+"Flagler County,FL","27",0
+"Lake County,FL","27",0
+"Hillsborough County,FL","28",0.329317269076305
+"Duval County,FL","28",0.338709677419355
+"Clay County,FL","28",0.866666666666667
+"Columbia County,FL","28",0.401273885350318
+"Pinellas County,FL","28",0.62200956937799
+"Pasco County,FL","28",0.412698412698413
+"Osceola County,FL","28",0.494252873563218
+"Orange County,FL","28",0.558558558558559
+"Putnam County,FL","28",NA
+"Alachua County,FL","28",0.2
+"Volusia County,FL","28",0.292307692307692
+"Leon County,FL","28",0.0990990990990991
+"St. Johns County,FL","28",0.136363636363636
+"Miami-Dade County,FL","28",0.887640449438202
+"Palm Beach County,FL","28",0.52112676056338
+"Broward County,FL","28",0.0909090909090909
+"Martin County,FL","28",0
+"Sumter County,FL","28",0
+"Hernando County,FL","28",0
+"Collier County,FL","28",0.553030303030303
+"Lee County,FL","28",0.724770642201835
+"Bay County,FL","28",0
+"Indian River County,FL","28",0
+"Marion County,FL","28",0
+"St. Lucie County,FL","28",0
+"Seminole County,FL","28",0.472868217054264
+"Charlotte County,FL","28",0.565789473684211
+"Citrus County,FL","28",0
+"Brevard County,FL","28",0.24321608040201
+"Sarasota County,FL","28",0.533333333333333
+"Manatee County,FL","28",0.2
+"Polk County,FL","28",0.173913043478261
+"Nassau County,FL","28",0.193548387096774
+"NULL,FL","28",0
+"Flagler County,FL","28",0
+"Lake County,FL","28",0
+"Hillsborough County,FL","29",0.578313253012048
+"Duval County,FL","29",0.419354838709677
+"Clay County,FL","29",0.533333333333333
+"Columbia County,FL","29",0.45859872611465
+"Pinellas County,FL","29",0.497607655502392
+"Pasco County,FL","29",0.634920634920635
+"Osceola County,FL","29",0.390804597701149
+"Orange County,FL","29",0.581081081081081
+"Putnam County,FL","29",NA
+"Alachua County,FL","29",0.371428571428571
+"Volusia County,FL","29",0.784615384615385
+"Leon County,FL","29",0.756756756756757
+"St. Johns County,FL","29",0.272727272727273
+"Miami-Dade County,FL","29",0.913857677902622
+"Palm Beach County,FL","29",0.676056338028169
+"Broward County,FL","29",0.227272727272727
+"Martin County,FL","29",0
+"Sumter County,FL","29",0
+"Hernando County,FL","29",0
+"Collier County,FL","29",0.916666666666667
+"Lee County,FL","29",0.821100917431193
+"Bay County,FL","29",0
+"Indian River County,FL","29",0
+"Marion County,FL","29",0
+"St. Lucie County,FL","29",0
+"Seminole County,FL","29",0.457364341085271
+"Charlotte County,FL","29",0.679824561403509
+"Citrus County,FL","29",0
+"Brevard County,FL","29",0.307537688442211
+"Sarasota County,FL","29",0.733333333333333
+"Manatee County,FL","29",0.6
+"Polk County,FL","29",0.0695652173913043
+"Nassau County,FL","29",0.161290322580645
+"NULL,FL","29",0
+"Flagler County,FL","29",0
+"Lake County,FL","29",0
+"Hillsborough County,FL","30",0.590361445783133
+"Duval County,FL","30",0.516129032258065
+"Clay County,FL","30",0.2
+"Columbia County,FL","30",0.56687898089172
+"Pinellas County,FL","30",0.722488038277512
+"Pasco County,FL","30",0.80952380952381
+"Osceola County,FL","30",0.53448275862069
+"Orange County,FL","30",0.54954954954955
+"Putnam County,FL","30",NA
+"Alachua County,FL","30",0.514285714285714
+"Volusia County,FL","30",0.646153846153846
+"Leon County,FL","30",0.864864864864865
+"St. Johns County,FL","30",0.490909090909091
+"Miami-Dade County,FL","30",0.955056179775281
+"Palm Beach County,FL","30",1
+"Broward County,FL","30",0.590909090909091
+"Martin County,FL","30",0
+"Sumter County,FL","30",0
+"Hernando County,FL","30",0
+"Collier County,FL","30",0.833333333333333
+"Lee County,FL","30",0.857798165137615
+"Bay County,FL","30",0
+"Indian River County,FL","30",0
+"Marion County,FL","30",0
+"St. Lucie County,FL","30",0
+"Seminole County,FL","30",0.317829457364341
+"Charlotte County,FL","30",0.732456140350877
+"Citrus County,FL","30",0
+"Brevard County,FL","30",0.410050251256281
+"Sarasota County,FL","30",0.853333333333333
+"Manatee County,FL","30",0.4
+"Polk County,FL","30",0.2
+"Nassau County,FL","30",0.193548387096774
+"NULL,FL","30",0.326530612244898
+"Flagler County,FL","30",0
+"Lake County,FL","30",0
+"Hillsborough County,FL","31",0.706827309236948
+"Duval County,FL","31",0.596774193548387
+"Clay County,FL","31",0
+"Columbia County,FL","31",0.656050955414013
+"Pinellas County,FL","31",0.808612440191388
+"Pasco County,FL","31",0.936507936507937
+"Osceola County,FL","31",0.770114942528736
+"Orange County,FL","31",0.436936936936937
+"Putnam County,FL","31",NA
+"Alachua County,FL","31",0.4
+"Volusia County,FL","31",0.707692307692308
+"Leon County,FL","31",1
+"St. Johns County,FL","31",0.709090909090909
+"Miami-Dade County,FL","31",0.876404494382023
+"Palm Beach County,FL","31",0.830985915492958
+"Broward County,FL","31",0.454545454545455
+"Martin County,FL","31",0
+"Sumter County,FL","31",0
+"Hernando County,FL","31",0
+"Collier County,FL","31",1
+"Lee County,FL","31",0.802752293577982
+"Bay County,FL","31",0
+"Indian River County,FL","31",0
+"Marion County,FL","31",0
+"St. Lucie County,FL","31",0
+"Seminole County,FL","31",1
+"Charlotte County,FL","31",0.767543859649123
+"Citrus County,FL","31",0
+"Brevard County,FL","31",0.711557788944724
+"Sarasota County,FL","31",0.946666666666667
+"Manatee County,FL","31",0.7
+"Polk County,FL","31",0.730434782608696
+"Nassau County,FL","31",0.451612903225806
+"NULL,FL","31",0.489795918367347
+"Flagler County,FL","31",0.625
+"Lake County,FL","31",1
+"Hillsborough County,FL","32",1
+"Duval County,FL","32",1
+"Clay County,FL","32",0
+"Columbia County,FL","32",1
+"Pinellas County,FL","32",0.842105263157895
+"Pasco County,FL","32",0.793650793650794
+"Osceola County,FL","32",1
+"Orange County,FL","32",0.527027027027027
+"Putnam County,FL","32",NA
+"Alachua County,FL","32",0.657142857142857
+"Volusia County,FL","32",0.892307692307692
+"Leon County,FL","32",0.972972972972973
+"St. Johns County,FL","32",1
+"Miami-Dade County,FL","32",1
+"Palm Beach County,FL","32",0.549295774647887
+"Broward County,FL","32",1
+"Martin County,FL","32",0
+"Sumter County,FL","32",0
+"Hernando County,FL","32",0
+"Collier County,FL","32",0.924242424242424
+"Lee County,FL","32",0.912844036697248
+"Bay County,FL","32",0
+"Indian River County,FL","32",0
+"Marion County,FL","32",0
+"St. Lucie County,FL","32",0
+"Seminole County,FL","32",1
+"Charlotte County,FL","32",1
+"Citrus County,FL","32",0
+"Brevard County,FL","32",1
+"Sarasota County,FL","32",1
+"Manatee County,FL","32",0.5
+"Polk County,FL","32",1
+"Nassau County,FL","32",1
+"NULL,FL","32",1
+"Flagler County,FL","32",1
+"Lake County,FL","32",0
+"Hillsborough County,FL","33",0.799196787148594
+"Duval County,FL","33",0.935483870967742
+"Clay County,FL","33",0
+"Columbia County,FL","33",0.987261146496815
+"Pinellas County,FL","33",1
+"Pasco County,FL","33",1
+"Osceola County,FL","33",0.689655172413793
+"Orange County,FL","33",1
+"Putnam County,FL","33",NA
+"Alachua County,FL","33",1
+"Volusia County,FL","33",1
+"Leon County,FL","33",0.936936936936937
+"St. Johns County,FL","33",0.909090909090909
+"Miami-Dade County,FL","33",0.749063670411985
+"Palm Beach County,FL","33",0.52112676056338
+"Broward County,FL","33",0.727272727272727
+"Martin County,FL","33",0
+"Sumter County,FL","33",0
+"Hernando County,FL","33",0
+"Collier County,FL","33",0.916666666666667
+"Lee County,FL","33",1
+"Bay County,FL","33",1
+"Indian River County,FL","33",1
+"Marion County,FL","33",0
+"St. Lucie County,FL","33",0
+"Seminole County,FL","33",0.906976744186046
+"Charlotte County,FL","33",0.855263157894737
+"Citrus County,FL","33",0
+"Brevard County,FL","33",0.905527638190955
+"Sarasota County,FL","33",1
+"Manatee County,FL","33",1
+"Polk County,FL","33",0.747826086956522
+"Nassau County,FL","33",0.967741935483871
+"NULL,FL","33",0.755102040816326
+"Flagler County,FL","33",0.375
+"Lake County,FL","33",1
