@@ -12,3 +12,6 @@ plot(GeoAnimation.state(qdata,showyear = 2016))
 then there would be an annimation pop up in your browser.  
 For nation/state level, we have one version of this animation that we fill the color in corresponding location;  
 For region level, we provided two versions: there is another choice that we use the markers to represent each region.
+
+### Reference:
+https://github.com/mages/googleVis/blob/master/demo/AnimatedGeoChart.R
